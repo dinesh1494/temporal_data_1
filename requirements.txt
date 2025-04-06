@@ -1,0 +1,17 @@
+transformers
+accelerate
+scipy
+matplotlib
+ipywidgets
+sentencepiece
+protobuf
+peft
+einops
+safetensors
+bitsandbytes
+ninja
+gradio
+pydub
+ffmpeg
+openpyxl
+voila
