@@ -18,3 +18,4 @@ ffmpeg
 openpyxl
 voila
 numpy
+ipympl
