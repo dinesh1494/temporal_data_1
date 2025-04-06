@@ -6,6 +6,8 @@ ipywidgets
 sentencepiece
 protobuf
 peft
+plotly
+pandas
 einops
 safetensors
 bitsandbytes
@@ -15,3 +17,4 @@ pydub
 ffmpeg
 openpyxl
 voila
+numpy
